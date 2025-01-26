@@ -1,1 +1,2 @@
 This is the FileB.
+Some changes made to File B.txt
